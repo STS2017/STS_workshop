@@ -1,0 +1,15 @@
+tei-div {
+  color: purple;
+  text-align: left;
+}
+
+tei-title {
+  font-style: italic;
+}
+
+tei-seg[rend="dropInit"] {
+   font-size: 300%;
+   float: left;
+   line-height: 1em;
+   padding-right: 10px;
+}
