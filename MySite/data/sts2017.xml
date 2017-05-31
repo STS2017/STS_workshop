@@ -5,7 +5,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>“To Laughter” (1816 Fair copy)</title>
+            <title>“To Laughter”</title>
             <author>By: Percy Shelley</author>
             <editor>Edited By: Nikolaus Wasmoen</editor>
          </titleStmt>
@@ -24,7 +24,7 @@
           </head>
           <div>
               <lg>
-                <l>Thy friends were never mine thou heartless<lb/>
+                <l><seg rend="dropInit">T</seg>hy friends were never mine thou heartless<lb/>
                 fiend:</l>
                 <l>Silence and solitude &amp; calm &amp; storm,</l>
                 <l>Hope, before whose veiled shrine all<lb/>
